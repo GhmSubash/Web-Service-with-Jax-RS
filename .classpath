@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src/main/java"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-17">
+		<attributes>
+			<attribute name="module" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="con" path="org.eclipse.jst.server.core.container/org.eclipse.jst.server.tomcat.runtimeTarget/Apache Tomcat v10.0">
+		<attributes>
+			<attribute name="owner.project.facets" value="jst.web"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="con" path="org.eclipse.jst.j2ee.internal.module.container"/>
+	<classpathentry kind="lib" path="C:/Users/ghimi/Desktop/Installation/Jersey Jax-rs/jaxrs-ri-3.1.1/jaxrs-ri/api/jakarta.ws.rs-api-3.1.0.jar"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.USER_LIBRARY/jersey-jax-rs"/>
+	<classpathentry kind="lib" path="C:/Users/ghimi/Desktop/Installation/Jersey Jax-rs/jaxb runtime/jaxb-runtime-4.0.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/ghimi/Desktop/Installation/Jersey Jax-rs/jaxb runtime/jakarta.xml.bind-api-4.0.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/ghimi/Desktop/Installation/Jersey Jax-rs/jaxb runtime/jaxb-core-4.0.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/ghimi/Desktop/Installation/Jersey Jax-rs/jaxb runtime/angus-activation-1.0.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/ghimi/Desktop/Installation/Jersey Jax-rs/jaxb runtime/istack-commons-runtime-4.1.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/ghimi/Desktop/Installation/Jersey Jax-rs/jaxb runtime/jakarta.activation-api-2.1.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/ghimi/Desktop/Installation/Jersey Jax-rs/jaxb runtime/txw2-4.0.1.jar"/>
+	<classpathentry kind="output" path="build/classes"/>
+</classpath>
